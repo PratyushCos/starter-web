@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 ##Deployment
 
 Sample text
+
+##copy right
+skdjsandknadkand
